@@ -117,7 +117,7 @@ In this step of our exercise, we will add a "build" job. We will specify `ubuntu
        name: Check emoji shortcode
        runs-on: ubuntu-latest
    ```
-3. Click **Start commit** in the top right of the workflow editor.
+3. Click **Start commit** in the top right of the workflow editor.😂
 4. Type your commit message and commit your changes directly to your branch.
 5. Wait about 20 seconds for actions to run, then refresh this page (the one you're following instructions from) and an action will automatically close this step and open the next one.
 
